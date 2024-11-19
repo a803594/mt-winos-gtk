@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Светлая Gtk тема WinOS
+Comment=WinOS Gtk Light Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=mt-winos-gtk-light
+MetacityTheme=mt-winos-gtk-light
+IconTheme=mt-winos-gtk
+CursorTheme=mt-winos-icons
+ButtonLayout=menu:minimize,maximize,close

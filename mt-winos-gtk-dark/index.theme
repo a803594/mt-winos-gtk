@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Тёмная Gtk тема WinOS
+Comment=WinOS Gtk Dark Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=mt-winos-gtk-dark
+MetacityTheme=mt-winos-gtk-dark
+IconTheme=mt-winos-gtk
+CursorTheme=mt-winos-icons
+ButtonLayout=menu:minimize,maximize,close
